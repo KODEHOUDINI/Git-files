@@ -36,7 +36,7 @@ body {
   margin-bottom: 1rem;
 }
 .gradient {
-  background-image: linear-gradient(to right bottom, #41d5e7, #00caff, #00b7ff, #9a95ff, #f858f9);
+  background-image: linear-gradient(to right bottom, #1df903, #6ef91c, #96f930, #b5f944, #cef958);
 }
 
 .icon {
